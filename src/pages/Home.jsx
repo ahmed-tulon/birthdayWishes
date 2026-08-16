@@ -9,7 +9,7 @@ import smileIcon from '../assets/smiley_icon.png'
 import { Link } from "react-router";
 import BookCanvas from "../components/BookCanvas";
 import SmallLetter from "../components/SmallLetter";
-import orihime from "../assets/orihime.jpg";
+import sadia from "../assets/sadia.jpg";
 
 const Home = () => {
     // ------------------- Hooks 
