@@ -115,7 +115,7 @@ const Home = () => {
                     <div className="right">
                         <div className="box__account">
                             <div className="image">
-                                <img src={orihime} alt="" />
+                                <img src={sadia} alt="" />
                             </div>
                             <div className="name">
                                 <i className="fa-solid fa-heart"></i>
