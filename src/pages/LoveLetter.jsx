@@ -6,42 +6,42 @@ const LoveLetter = () => {
         {
             id: 1,
             name: "Tulon",
-            msg: "Wish you the happiest birthday",
+            msg: "Wish you the happiest birthday! May your life be filled with endless smiles and bright moments.",
         },
         {
             id: 2,
             name: "Tulon",
-            msg: "One picture from you can change my whole day, my whole mood, my whole heartbeat.",
+            msg: "You don't even realize how a simple text or photo from you can instantly fix my entire mood.",
         },
         {
             id: 3,
             name: "Tulon",
-            msg: "Even through screens and pixels, your laugh reaches me like sunlight through a window—warm, real, and impossible to forget.",
+            msg: "Even through pixels and distance, your laughter always brings a special kind of comfort to my heart.",
         },
         {
             id: 4,
             name: "Tulon",
-            msg: "Every notification from you feels like a heartbeat whispering, I’m here, and I love you.",
+            msg: "I might just be a friend to you, but every time your name pops up on my screen, it makes my day.",
         },
         {
             id: 5,
             name: "Tulon",
-            msg: "Our messages might travel through wires, but every word you send lands straight in my heart.",
+            msg: "Our messages travel through screens, but every line you write holds a very warm and quiet place in my heart.",
         },
         {
             id: 6,
             name: "Tulon",
-            msg: "Ever since our we met, my heart knew where it wanted to stay— with you, in every soft moment, every smile, every quiet piece of forever.",
+            msg: "Some people enter our lives and subtly make everything softer, calmer, and better—you are that person for me.",
         },
         {
             id: 7,
             name: "Tulon",
-            msg: " but you turned it into a memory my heart refuses to forget. Since then, every moment with you has felt softer, brighter, and filled with a kind of peace only you bring.",
+            msg: "You turned ordinary days into memories I truly treasure. Thank you for just being yourself and bringing this peace.",
         },
         {
             id: 8,
             name: "Tulon",
-            msg: "Since our first conversation, you’ve been the quiet spark that changed my world, turning ordinary days into moments that feel beautifully meant to be.",
+            msg: "Since the day we started talking, you've been that silent spark of joy I never knew I needed in my world.",
         },
     ];
     const [openEnvelope, setOpenEnvelope] = useState(false);
