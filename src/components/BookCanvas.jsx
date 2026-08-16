@@ -69,10 +69,9 @@ const BookCanvas = ({ active, setActive }) => {
                         {/* Swapping back to H2 to match the original CSS targeting */}
                         <div className="card2-message-text italic">
                             <article style={{ marginBottom: '8px' }}>Happy Birthday, Sadia Jannat Alo ❤️</article>
-                            <article style={{ marginBottom: '10px' }}>From the moment we met, something in my life shifted—like the universe quietly guiding me toward someone meant for me.You brought warmth into the parts of me I didn’t even know were cold, And you expanded my days with a dimension I can only call my own.</article>
-                            <article style={{ marginBottom: '10px' }}>On your birthday, I just want you to know this: I want you with me in every chapter, every storm, every sunshine, every tomorrow. No matter what comes, I’ll be on your side—always. I’ll choose you, protect you, stand with you, and love you in ways that remind you you’re never alone.</article>
-                            <article style={{ marginBottom: '10px' }}>You’re not just another year older today… <br />
-                                you’re the reason my life feels softer, brighter, and endlessly worth living. Happy Birthday.</article>
+                            <article style={{ marginBottom: '10px' }}>শুভ জন্মদিন! তোমার উপস্থিতি আমার জীবনটাকে আগের চেয়ে অনেক সুন্দর আর রঙিন করে তুলেছে। হয়তো অনেক কথাই তোমাকে কখনো মুখে বলা হয় না, কিন্তু তুমি আমার জীবনে কতটা স্পেশাল সেটা বলে বোঝানো যাবে না।</article>
+                            <article style={{ marginBottom: '10px' }}>তোমার সাথে কাটানো সাধারণ মুহূর্তগুলোও আমার কাছে খুব প্রিয়। তোমার হাসিমুখটা দেখতে আমার খুব ভালো লাগে। আল্লাহ তোমার জীবনকে অনেক আলো আর খুশিতে ভরিয়ে দিক।</article>
+                            <article style={{ marginBottom: '10px' }}>নতুন এই বছরটা তোমার জীবনে সব স্বপ্ন পূরণ করুক। সবসময় এভাবেই হেসেখেলে থেকো, আর আমার পাশে থেকো। Happy Birthday! ✨</article>
                         </div>
 
                         <div className="card2-decoration"></div> {/* Decoration */}
